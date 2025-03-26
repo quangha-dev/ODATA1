@@ -334,10 +334,11 @@ C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\staticwebassets\msbuild.build.
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ODataEx.props
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ODataEx.props
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\ODataEx.csproj.Up2Date
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\ODataEx.dll
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\refint\ODataEx.dll
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\ODataEx.pdb
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\ODataEx.genruntimeconfig.cache
 C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\ref\ODataEx.dll
+C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\ODataEx.sourcelink.json
+C:\Users\Admin\Downloads\ODataEx\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\ODataEx\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|c:\\users\\admin\\downloads\\odataex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|c:\\users\\admin\\downloads\\odataex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|c:\\users\\admin\\downloads\\odataex\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|c:\\users\\admin\\downloads\\odataex\\migrations\\20250321095308_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|solutionrelative:migrations\\20250321095308_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|c:\\users\\admin\\downloads\\odataex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|c:\\users\\admin\\downloads\\odataex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2C77544-1DA4-4A82-A23F-E58959FB9F4C}|ODataEx.csproj|c:\\users\\admin\\downloads\\odataex\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 409,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ODataEx\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:33:46.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:33:46.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20250321095308_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ODataEx\\Migrations\\20250321095308_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250321095308_InitialCreate.cs",
@@ -71,18 +70,17 @@
               "RelativeToolTip": "Migrations\\20250321095308_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:33:46.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:33:46.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ODataEx\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\ODataEx\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T09:50:23.874Z",
               "EditorCaption": ""
@@ -100,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ODataEx\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\ODataEx\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-21T09:49:24.539Z",
               "EditorCaption": ""
@@ -125,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ODataEx\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
@@ -146,8 +144,7 @@
               "RelativeToolTip": "Controllers\\BooksController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T09:52:02.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T09:52:02.952Z"
             }
           ]
         }
